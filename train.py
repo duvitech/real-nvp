@@ -13,7 +13,7 @@ import torchvision.transforms as transforms
 import util
 
 from models import RealNVP, RealNVPLoss
-from tqdm import tqdm
+import tqdm
 
 
 def main(args):
